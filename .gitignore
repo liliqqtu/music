@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Production builds and rendered outputs
+out/
+dist/
+build/
+*.mp4
+*.mkv
+*.mov
+
+# Large raw art source generations from previous project
+art-source/
+
+# Remotion cache
+.remotion/
+
+# Environment and IDE
+.env
+.DS_Store
+Thumbs.db
+desktop.ini
+.workbuddy/
+.vscode/
+.idea/
+
+# Logs and scratch
+*.log
+scratch/
